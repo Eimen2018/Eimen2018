@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me: aymennurhussenibrahim@gmail.com 
 
-[![Aymens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eimen2018)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 Eimen2018/Eimen2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
