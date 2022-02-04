@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me: aymennurhussenibrahim@gmail.com 
+- 📫 How to reach me: eimen.nurhussien@gmail.com 
 
 
 <!---
