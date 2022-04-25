@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aymen
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Flutter, React, Vue
 - 🌱 I’m currently working on Flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 💞️ I’m looking to collaborate on Flutter and Web Projects
 - 📫 How to reach me: eimen.nurhussien@gmail.com 
 
 
